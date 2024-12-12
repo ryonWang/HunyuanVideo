@@ -1,3 +1,2 @@
-__pycache__
-/ckpts/**/
-/results/**
+.gitignore
+配置脚本*.ipynb
