@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b38d87e9-2d83-4faf-a002-a3c233e432b6" name="Hunyuan">
+        <fileTransfer rootFolder="/root/autodl-tmp/HunyuanVideo" accessType="SFTP" host="connect.bjc1.seetacloud.com" port="55706" sshConfigId="a4f6fedd-24c4-416f-a138-34d616d19409" sshConfig="root@connect.bjc1.seetacloud.com:55706">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" isUseRsync="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

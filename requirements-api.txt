@@ -1,0 +1,4 @@
+flask>=2.0.0
+redis>=4.0.0
+loguru>=0.7.0
+gunicorn>=20.1.0 
