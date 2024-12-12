@@ -1,2 +1,3 @@
 .gitignore
 配置脚本*.ipynb
+**/.ipynb_checkpoints
